@@ -1,0 +1,1 @@
+{%GEN_MAIN_CONTENT%}

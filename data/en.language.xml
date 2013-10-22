@@ -1,0 +1,196 @@
+<?xml version="1.0"?>
+<ISTRINGTABLE ID="booker" LANG="en">
+
+	<ISTRING>
+		<KEY>LNG_TITLE</KEY>
+		<VALUE>Boardroom Booker</VALUE>
+    </ISTRING>
+
+    <ISTRING>
+        <KEY>LNG_404</KEY>
+        <VALUE>Page not found! Get out of here!</VALUE>
+    </ISTRING>
+
+    <ISTRING>
+        <KEY>LNG_LOGIN</KEY>
+        <VALUE>Login</VALUE>
+    </ISTRING>
+
+    <ISTRING>
+        <KEY>LNG_USERNAME</KEY>
+        <VALUE>Username</VALUE>
+    </ISTRING>
+
+    <ISTRING>
+        <KEY>LNG_PASSWORD</KEY>
+        <VALUE>Password</VALUE>
+    </ISTRING>
+
+    <ISTRING>
+        <KEY>LNG_ERR_BADLOGIN</KEY>
+        <VALUE>Wrong uername!</VALUE>
+    </ISTRING>
+
+    <ISTRING>
+        <KEY>LNG_ERR_BADPASSWORD</KEY>
+        <VALUE>Wrong password!</VALUE>
+    </ISTRING>
+
+    <ISTRING>
+        <KEY>LNG_REG_OK</KEY>
+        <VALUE>Registration successful!</VALUE>
+    </ISTRING>
+
+    <ISTRING>
+        <KEY>LNG_LOGIN_OK</KEY>
+        <VALUE>Welcome to our shop!</VALUE>
+    </ISTRING>
+
+    <ISTRING>
+        <KEY>LNG_LOGOUT</KEY>
+        <VALUE>Logout</VALUE>
+    </ISTRING>
+
+    <ISTRING>
+        <KEY>LNG_MSG_LOGOUT</KEY>
+        <VALUE>You left site</VALUE>
+    </ISTRING>
+
+    <ISTRING>
+        <KEY>LNG_BOARDINGROOM</KEY>
+        <VALUE>Boardingroom</VALUE>
+    </ISTRING>
+
+    <ISTRING>
+        <KEY>LNG_EDIT</KEY>
+        <VALUE>Edit</VALUE>
+    </ISTRING>
+    <ISTRING>
+        <KEY>LNG_DELETE</KEY>
+        <VALUE>Delete</VALUE>
+    </ISTRING>
+    <ISTRING>
+        <KEY>LNG_ADD_EMPLOYEE</KEY>
+        <VALUE>Add employee</VALUE>
+    </ISTRING>
+    <ISTRING>
+        <KEY>LNG_BB_DETAILS</KEY>
+        <VALUE>B.B. Details</VALUE>
+    </ISTRING>
+    <ISTRING>
+        <KEY>LNG_NAME</KEY>
+        <VALUE>Name</VALUE>
+    </ISTRING>
+    <ISTRING>
+        <KEY>LNG_EMAIL</KEY>
+        <VALUE>Email</VALUE>
+    </ISTRING>
+    <ISTRING>
+        <KEY>LNG_NOTES</KEY>
+        <VALUE>Notes</VALUE>
+    </ISTRING>
+    <ISTRING>
+        <KEY>LNG_BOOK_IT</KEY>
+        <VALUE>Book it!</VALUE>
+    </ISTRING>
+    <ISTRING>
+        <KEY>LNG_EMPLOYEE_LIST</KEY>
+        <VALUE>Employees list</VALUE>
+    </ISTRING>
+    <ISTRING>
+        <KEY>LNG_NODATA</KEY>
+        <VALUE>You must fill in all fields</VALUE>
+    </ISTRING>
+    <ISTRING>
+        <KEY>LNG_WRONG_DATES</KEY>
+        <VALUE>Wrong date! Try again.</VALUE>
+    </ISTRING>
+    <ISTRING>
+        <KEY>LNG_ONLY_4</KEY>
+        <VALUE>No more than four times.</VALUE>
+    </ISTRING>
+    <ISTRING>
+        <KEY>LNG_BUSY</KEY>
+        <VALUE>This room is already booked for this time.</VALUE>
+    </ISTRING>
+    <ISTRING>
+        <KEY>LNG_EVENT_ADDED</KEY>
+        <VALUE>Events has been booked</VALUE>
+    </ISTRING>
+    <ISTRING>
+        <KEY>LNG_EMPLOYEE_ADDED</KEY>
+        <VALUE>Employee has been added.</VALUE>
+    </ISTRING>
+    <ISTRING>
+        <KEY>LNG_WRONG_EMAIL</KEY>
+        <VALUE>Wrong email</VALUE>
+    </ISTRING>
+    <ISTRING>
+        <KEY>LNG_WRONG_NAME</KEY>
+        <VALUE>Wrong name</VALUE>
+    </ISTRING>
+    <ISTRING>
+        <KEY>LNG_SATURDAY</KEY>
+        <VALUE>Saturday</VALUE>
+    </ISTRING>
+    <ISTRING>
+        <KEY>LNG_FRIDAY</KEY>
+        <VALUE>Friday</VALUE>
+    </ISTRING>
+    <ISTRING>
+        <KEY>LNG_THURSDAY</KEY>
+        <VALUE>Thursday</VALUE>
+    </ISTRING>
+    <ISTRING>
+        <KEY>LNG_WEDNESDAY</KEY>
+        <VALUE>Wednesday</VALUE>
+    </ISTRING>
+    <ISTRING>
+        <KEY>LNG_TUESDAY</KEY>
+        <VALUE>Tuesday</VALUE>
+    </ISTRING>
+    <ISTRING>
+        <KEY>LNG_MONDAY</KEY>
+        <VALUE>Monday</VALUE>
+    </ISTRING>
+    <ISTRING>
+        <KEY>LNG_SUNDAY</KEY>
+        <VALUE>Sunday</VALUE>
+    </ISTRING>
+    <ISTRING>
+        <KEY></KEY>
+        <VALUE></VALUE>
+    </ISTRING>
+    <ISTRING>
+        <KEY></KEY>
+        <VALUE></VALUE>
+    </ISTRING>
+    <ISTRING>
+        <KEY></KEY>
+        <VALUE></VALUE>
+    </ISTRING>
+    <ISTRING>
+        <KEY></KEY>
+        <VALUE></VALUE>
+    </ISTRING>
+    <ISTRING>
+        <KEY></KEY>
+        <VALUE></VALUE>
+    </ISTRING>
+    <ISTRING>
+        <KEY></KEY>
+        <VALUE></VALUE>
+    </ISTRING>
+    <ISTRING>
+        <KEY></KEY>
+        <VALUE></VALUE>
+    </ISTRING>
+    <ISTRING>
+        <KEY></KEY>
+        <VALUE></VALUE>
+    </ISTRING>
+    <ISTRING>
+        <KEY></KEY>
+        <VALUE></VALUE>
+    </ISTRING>
+</ISTRINGTABLE>
